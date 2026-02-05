@@ -1,68 +1,65 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="35"> I'm Mohamed Adel
-### 🚀 AI-Powered Full Stack .NET Developer & DevOps Engineer
+<div align="center">
 
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-adel-406532281" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohammed-adel" /></a>
-<a href="mailto:mohamedadelhareidy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mohamedadelhareidy" /></a>
-</p>
+# Mohamed Adel! 🎉  
+### 🤖 AI-Powered Full Stack .NET Developer | DevOps Enthusiast  
 
----
+![AI Developer](https://img.shields.io/badge/AI_Powered_Developer-Digilians-orange?style=for-the-badge)
+![AWS Certified](https://img.shields.io/badge/AWS_Certified-Professional-yellow?style=for-the-badge)
+![.NET Developer](https://img.shields.io/badge/.NET_Developer-512BD4?style=for-the-badge)
 
-## ⚡ About Me
-- [span_2](start_span)[span_3](start_span)🔭 **Working on:** AI-Powered Software Development[span_2](end_span)[span_3](end_span).
-- [span_4](start_span)☁️ **Expertise:** Automating AWS Infrastructure with Terraform & Ansible[span_4](end_span).
-- [span_5](start_span)[span_6](start_span)🛡️ **Status:** Completed Military Service (Military IT Specialist)[span_5](end_span)[span_6](end_span).
-- [span_7](start_span)🎯 **Goal:** Building scalable, AI-enhanced applications[span_7](end_span).
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-[![](.github/assets/trophies.svg)](https://github.com/ryo-ma/github-profile-trophy?username=MOHAMEHAREDY&theme=dracula&no-frame=true&row=1)
+## 👨‍💻 About Me  
+- **Current Role**: Full Stack .NET Developer (Military Service)  
+- **Specialization**: AI-Powered Full Stack Development with modern DevOps practices  
+- **Focus**: Building scalable, AI-enhanced applications leveraging AWS, Azure, and cloud platforms  
+
+### 🔧 Technical Toolkit  
+- **Infrastructure Automation**: AWS deployment, Terraform, Jenkins, Ansible  
+- **Cloud Platforms**: AWS, Azure, GCP  
+- **Development**: .NET, React, Node.js, Docker, CI/CD  
 
 ---
 
-## 🛠️ Skills & Tech Stack
-### 💻 Backend & AI
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,azure,mysql,postman" />
-</p>
+## 🚀 Featured Projects  
 
-### 🌐 Frontend
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind" />
-</p>
+### 🏗️ Infrastructure & DevOps  
+- **[Infrastructure Automation]** - Automated AWS deployment with Terraform, Jenkins CI/CD pipeline for Node.js apps  
+- **Jenkins CI/CD Pipeline** - Automated deployment on AWS using Ansible and Terraform  
 
-### 🚀 DevOps & Cloud
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,terraform,linux,githubactions" />
-</p>
+### 💻 Full Stack Applications  
+- **E-Commerce Web App** - Fully responsive web application using React.JS  
+- **Nursery System** - Back-end system built with Node.JS and Docker  
+- **CRUD Product Management** - Vanilla JavaScript app with real-time updates  
 
 ---
 
-## 📊 My GitHub Activity
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMEHAREDY&theme=dracula&area=true&hide_border=true" />
-</p>
+## 📊 GitHub Activity  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MOHAMEHAREDY&show_icons=true&theme=dracula&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEHAREDY&layout=compact&theme=dracula" />
-</p>
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedadel&show_icons=true&theme=radical&hide_border=true)
 
-## 🐍 Snake Animation (Contribution)
-![snake gif](https://github.com/MOHAMEHAREDY/MOHAMEHAREDY/blob/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedadel&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 📂 Featured Projects
-* **[span_8](start_span)AWS Automation:** Terraform infrastructure with SES and ElastiCache[span_8](end_span).
-* **[span_9](start_span)Jenkins Pipeline:** CI/CD on private EC2 with Jenkins slave[span_9](end_span).
-* **[span_10](start_span)E-Commerce Web:** Fully responsive React application[span_10](end_span).
+## 📞 Connect with Me  
+- **LinkedIn**: [mohammed-adel-406532281](https://www.linkedin.com/in/mohammed-adel-406532281)  
+- **Email**: mohamedadelhairety@gmail.com  
+- **Location**: Giza, Egypt  
+- **GitHub**: [mohamedadel](https://github.com/mohamedadel)  
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
-</p>
+<div align="center">
+
+### 🎯 "Fast Learner | Problem Solver | Team Player"  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mohamedadel&color=blue&style=flat)
+
+</div>
