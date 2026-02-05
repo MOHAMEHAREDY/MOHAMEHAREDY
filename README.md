@@ -1,65 +1,58 @@
-<div align="center">
+# Hi, I'm Muhammad Adel Abdel Aal 👋
 
-# Mohamed Adel! 🎉  
-### 🤖 AI-Powered Full Stack .NET Developer | DevOps Enthusiast  
+### Software Engineer | Full-Stack Developer | DevOps Engineer
 
-![AI Developer](https://img.shields.io/badge/AI_Powered_Developer-Digilians-orange?style=for-the-badge)
-![AWS Certified](https://img.shields.io/badge/AWS_Certified-Professional-yellow?style=for-the-badge)
-![.NET Developer](https://img.shields.io/badge/.NET_Developer-512BD4?style=for-the-badge)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/DevOps%20Focused-Kubernetes%20%7C%20Jenkins-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Giza%2C%20Egypt-green?style=for-the-badge" />
+</p>
 
 ---
 
-## 👨‍💻 About Me  
-- **Current Role**: Full Stack .NET Developer (Military Service)  
-- **Specialization**: AI-Powered Full Stack Development with modern DevOps practices  
-- **Focus**: Building scalable, AI-enhanced applications leveraging AWS, Azure, and cloud platforms  
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" />
 
-### 🔧 Technical Toolkit  
-- **Infrastructure Automation**: AWS deployment, Terraform, Jenkins, Ansible  
-- **Cloud Platforms**: AWS, Azure, GCP  
-- **Development**: .NET, React, Node.js, Docker, CI/CD  
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
 
----
+  <!-- DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" />
 
-## 🚀 Featured Projects  
-
-### 🏗️ Infrastructure & DevOps  
-- **[Infrastructure Automation]** - Automated AWS deployment with Terraform, Jenkins CI/CD pipeline for Node.js apps  
-- **Jenkins CI/CD Pipeline** - Automated deployment on AWS using Ansible and Terraform  
-
-### 💻 Full Stack Applications  
-- **E-Commerce Web App** - Fully responsive web application using React.JS  
-- **Nursery System** - Back-end system built with Node.JS and Docker  
-- **CRUD Product Management** - Vanilla JavaScript app with real-time updates  
-
----
-
-## 📊 GitHub Activity  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedadel&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedadel&layout=compact&theme=radical&hide_border=true)
-
-</div>
+  <!-- OS & Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+</p>
 
 ---
 
-## 📞 Connect with Me  
-- **LinkedIn**: [mohammed-adel-406532281](https://www.linkedin.com/in/mohammed-adel-406532281)  
-- **Email**: mohamedadelhairety@gmail.com  
-- **Location**: Giza, Egypt  
-- **GitHub**: [mohamedadel](https://github.com/mohamedadel)  
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+</p>
 
 ---
 
-<div align="center">
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
 
-### 🎯 "Fast Learner | Problem Solver | Team Player"  
+---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mohamedadel&color=blue&style=flat)
-
-</div>
+### 📱 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
