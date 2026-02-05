@@ -1,139 +1,144 @@
-# Hi, I'm [Your Name] 👋
+<div align="center">
 
-### 🤖 AI-Powered .NET Developer | Full Stack Engineer | DevOps Enthusiast
+# 👨‍💻 Hi, I'm [Your Name]  
+### **AI-Powered .NET Developer | DevOps Engineer | Cloud Architect**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/13th_Most_Followed_User-Egypt-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/6th_Most_Active_User-Egypt-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Powered_Developer-Digilians-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS_Certified-Professional-yellow?style=for-the-badge" />
-</p>
+[![13th Most Followed User - Egypt](https://img.shields.io/badge/🏆_13th_Most_Followed-Egypt-1e90ff?style=for-the-badge)](https://github.com/[YOUR_USERNAME])
+[![6th Most Active User - Egypt](https://img.shields.io/badge/⚡_6th_Most_Active-Egypt-00c853?style=for-the-badge)](https://github.com/[YOUR_USERNAME])
+[![AI Developer](https://img.shields.io/badge/🤖_AI_Powered_Developer-Digilians-ff6f00?style=for-the-badge)]()
+[![AWS Certified](https://img.shields.io/badge/☁️_AWS_Certified-Professional-ff9900?style=for-the-badge)]()
 
----
-
-### 🎯 About Me
-I'm a passionate **.NET Developer** certified in **AI-Powered Software Development**, focused on building scalable, AI-enhanced applications using modern DevOps practices and cloud platforms (AWS, Azure, GCP). Currently serving as an **AI-Powered Full Stack .NET Developer** during my military service, developing intelligent, end-to-end solutions.
+</div>
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🚀 About Me
 
-#### 💻 Programming & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" title=".NET" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title=".NET Core" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP" />
-</p>
+I'm a passionate **.NET Developer** specializing in **AI-enhanced applications** with strong expertise in **DevOps** and **Cloud Computing**. Certified in **AI-Powered Software Development** from Digilians, I build scalable, intelligent solutions using modern engineering practices.
 
-#### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" title="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40" title="Ansible" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx" />
-</p>
-
-#### 🗃️ Databases & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" title="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" height="40" title="Material-UI" />
-</p>
+**Currently:** AI-Powered Full Stack .NET Developer (Military Service)  
+**Focus:** .NET, AI Integration, Cloud Architecture, CI/CD Automation
 
 ---
 
-### 💼 Professional Experience
+## 🛠️ **Tech Stack**
 
-#### 🤖 AI-Powered Full Stack .NET Developer (Military Service)
-**Dec 2025 – Present**  
-- Developing end-to-end .NET applications with AI integration
-- Applying modern software engineering practices for scalable solutions
-- Leveraging cloud platforms and DevOps for deployment
+### **📌 Core Development**
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Web API](https://img.shields.io/badge/-Web%20API-512BD4?logo=dotnet&logoColor=white&style=flat)
 
-#### 🖥️ IT Specialist – British International College of Cairo
-**Jun 2025 – Aug 2025**  
-- Managed and maintained company systems, networks, and devices
-- Ensured data security and resolved technical issues efficiently
+### **🌐 Frontend & UI**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 
-#### 🛠️ IT Help Desk – Al-Mashreq Medical Care
-**Apr 2021 – May 2022**  
-- Provided technical support and network troubleshooting
-- Trained in network management and security
+### **☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
 
----
-
-### 🚀 Highlighted Projects
-
-#### 🔐 AWS Infrastructure with Terraform
-Automated AWS infrastructure deployment including VPC, EC2, SES, and ElastiCache.
-
-#### 🐳 Node.js Nursery System with Docker
-Backend system containerized with Docker for scalability and deployment ease.
-
-#### 🛍️ E-Commerce Web App (React.js)
-Fully responsive e-commerce platform with modern UI using Material-UI.
-
-#### ⚙️ Jenkins CI/CD Pipeline on AWS
-Automated deployment of Node.js apps using Jenkins, Ansible, and Terraform.
-
-#### 📦 CRUD Product Management App
-Responsive web app for managing products using vanilla JavaScript.
+### **🗄️ Databases & Tools**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
+## 📊 **GitHub Analytics**
 
-### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=github-compact&hide_border=true)
+<div align="center">
 
----
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true) |
+|:---:|:---:|
 
-### 📜 Certifications
-- 🧠 **AI-Powered Software Development** – Digilians
-- ☁️ **AWS Certified Developer – Associate**
-- ☁️ **AWS Certified DevOps Engineer – Professional**
-- ⚙️ **DevOps Engineer** – ITI
-- 🛠️ **Bootcamp DevOps** – KodeKloud
-- 📘 **C# & JavaScript** – Coursera
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+
+</div>
 
 ---
 
-### 🗣️ Languages
-- **Arabic**: Native
-- **English**: Very Good
+## 💼 **Professional Experience**
+
+| Role | Organization | Duration | Key Responsibilities |
+|------|--------------|----------|---------------------|
+| **🤖 AI-Powered Full Stack .NET Developer** | Military Service | Dec 2025 - Present | Developing AI-enhanced .NET applications, implementing scalable architectures |
+| **🖥️ IT Specialist** | British International College of Cairo | Jun 2025 - Aug 2025 | System administration, network management, technical support |
+| **🛠️ IT Help Desk** | Al-Mashreq Medical Care | Apr 2021 - May 2022 | Technical troubleshooting, network support, user assistance |
 
 ---
 
-### 📱 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:[YOUR_EMAIL]" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/[YOUR_USERNAME]" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+## 🏆 **Certifications**
+<div align="center">
+
+![AI-Powered Software Development](https://img.shields.io/badge/AI_Powered_Software_Development-Digilians-blueviolet?style=for-the-badge)
+![AWS Developer Associate](https://img.shields.io/badge/AWS_Certified_Developer-Associate-FF9900?style=for-the-badge)
+![AWS DevOps Pro](https://img.shields.io/badge/AWS_Certified_DevOps-Professional-FF9900?style=for-the-badge)
+![DevOps Engineer](https://img.shields.io/badge/DevOps_Engineer-ITI-important?style=for-the-badge)
+
+</div>
 
 ---
 
-⭐ *"Building intelligent systems with clean code, scalable architecture, and modern DevOps practices."*
+## 🚀 **Featured Projects**
+
+### **🔧 Infrastructure & DevOps**
+- **AWS Infrastructure with Terraform** – Automated cloud infrastructure deployment
+- **Jenkins CI/CD Pipeline** – Automated deployment on AWS with Ansible & Terraform
+- **Nexus & Jenkins on EC2** – Automated server configuration with Ansible
+
+### **💻 Full Stack Applications**
+- **E-Commerce Web App (React.js)** – Fully responsive e-commerce platform
+- **Node.js Nursery System** – Containerized backend with Docker
+- **CRUD Product Management** – Vanilla JavaScript app with real-time updates
+- **DBMS CLI Menu App** – Bash-based database management system
+
+---
+
+## 📈 **GitHub Streak**
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=radical&hide_border=true&fire=DD2727&ring=DD2727)
+
+</div>
+
+---
+
+## 🏅 **GitHub Trophies**
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_USERNAME])
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### **"Building intelligent solutions at the intersection of AI, Cloud, and DevOps."**  
+⭐ *From my hands to production, with quality and scale in mind.*
+
+</div>
