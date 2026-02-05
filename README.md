@@ -3,33 +3,37 @@
 ### Software Engineer | Full-Stack Developer | DevOps Engineer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/DevOps%20Focused-Kubernetes%20%7C%20Jenkins-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--Based%20Software%20Development-Digital%20Pioneers-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Giza%2C%20Egypt-green?style=for-the-badge" />
 </p>
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Skills
 <p align="left">
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
+  <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
+
+  <!-- AI & Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" />
 
   <!-- DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" />
 
-  <!-- OS & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
 
 ---
@@ -42,8 +46,11 @@
 
 ---
 
-### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+### 🎓 Programs & Certifications
+- **Digital Pioneers Initiative (DPI)** – AI-Based Software Development  
+- DevOps Bootcamp – **KodKloud**  
+- **CCNA, CCNP, MCSA** – Network & Systems  
+- Oracle Developer Training (Ongoing)
 
 ---
 
